@@ -4,8 +4,8 @@ The 1st lab being updated. See the project.
 TASK
 
 1A. Calculate Y:
-If 0 < X <= 2pi, then Y = cosX + sinX;
-If -2pi <= X <= 0, then Y = (X+10)/X;
+1. If 0 < X <= 2pi, then Y = cosX + sinX
+2. If -2pi <= X <= 0, then Y = (X+10)/X
 
 ALGO
 
